@@ -3,7 +3,7 @@
 My walkthrough of the 30 day MyDFIR SOC Analyst challenge to obtain practical skills. 
 
 [Day 1 - Create Logical Diagram](https://github.com/baumannsec/30Day_SOC-Analyst_Challenge/tree/main/Day01-Logical-Diagram)  
-[Day 2 - ELK Stack Intro]  
+[Day 2 - ELK Stack Intro](https://baumannsec.github.io/siem/2025/10/05/ELK-stack.html)  
 [Day 3 - Elasticsearch Setup]  
 [Day 4 - Kibana Setup]  
 [Day 5 - Windows Server Install]  
